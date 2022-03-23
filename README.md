@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá meu nome é Lucas Kano 👋
+## Desenvolvedor Back-End
 
-<!--
-**athenas2021/athenas2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalhando com ... Python / Django Rest / MySQL / AWS / Docker
 
-Here are some ideas to get you started:
+  <a href="https://www.linkedin.com/in/lucas-andrade-kano-72b822192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <a href="https://github.com/athenas2021">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athenas2021&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+</div>
+
+
+ ![Snake animation](https://github.com/athenas2021/athenas2021/blob/output/github-contribution-grid-snake.svg)
+
