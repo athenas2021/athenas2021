@@ -17,8 +17,6 @@
  <br><br>
 <div align="left">
   <a href="https://github.com/athenas2021">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athenas2021&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 
 
